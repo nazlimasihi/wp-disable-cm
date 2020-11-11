@@ -1,0 +1,15 @@
+{
+  "name": "disable-comments",
+  "version": "0.1.0",
+  "main": "Gruntfile.js",
+  "author": "Samir Shah",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "grunt": "^1.2.1",
+    "grunt-babel": "^8.0.0",
+    "grunt-wp-i18n": "~1.0.3",
+    "grunt-wp-readme-to-markdown": "~2.0.1",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}
